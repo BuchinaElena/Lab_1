@@ -1,0 +1,4 @@
+﻿  task1.cpp
+C:\Users\User\source\repos\Labor1\Labor1\task1.cpp(9,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Labor1\Labor1\task1.cpp(13,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Labor1.vcxproj -> C:\Users\User\source\repos\Labor1\Debug\Labor1.exe

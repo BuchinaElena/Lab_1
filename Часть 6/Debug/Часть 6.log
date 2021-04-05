@@ -1,0 +1,4 @@
+﻿  task6_func.cpp
+C:\Users\User\source\repos\Labor1\Часть 6\task6_func.cpp(8,50): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+task6_main.obj : error LNK2005: "void __cdecl f(void)" (?f@@YAXXZ) уже определен в task6_func.obj
+C:\Users\User\source\repos\Labor1\Debug\Часть 6.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
